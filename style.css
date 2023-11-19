@@ -1,0 +1,29 @@
+body{
+    background-color:#D4AA83;
+}
+header{
+    padding-right:-20px;
+    padding-bottom:20px;
+    background-color:#8B4F18;
+}
+header img{
+    text-align:left;
+    width:200px;
+    height:200px;
+}
+a{
+    margin:20px;
+    font-size:40px;
+    text-decoration: none;
+    color:black;
+    background-color:#6E4E37;
+    border-radius:10px;
+}
+main img{
+    width:700px;
+}
+footer{
+    text-align: center;
+    background-color:#8B4F18;
+    font-size:50px;
+}
